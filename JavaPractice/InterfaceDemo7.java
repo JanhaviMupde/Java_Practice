@@ -1,4 +1,4 @@
-interface A
+interface Aa
 {
     int no = 11;
     void fun();
@@ -10,12 +10,13 @@ interface B
     void fun();
 }
 
-class Demo implements A,B   // Multiple inheritance
+class Demo implements Aa,B   // Multiple inheritance
 {
     public void fun()
     {
-        System.out.println("Inside fun"+A.no);    // no generates error
+        System.out.println("Inside fun"+Aa.no);    // no generates error
     }
+    
 }
 
 class InterfaceDemo7
