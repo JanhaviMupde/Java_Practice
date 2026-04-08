@@ -21,16 +21,19 @@ public class ThreadUserDefinedSerialAlive
 
         //Checked Exception
         try         
+            
         {
             dobj1.start();
             System.out.println("Is first threat alive ? : "+dobj1.isAlive());
             dobj1.join();
+            
             System.out.println("End if first thread");
         
             System.out.println("Is first threat alive ? : "+dobj1.isAlive());
 
             dobj2.start();
             dobj2.join();
+            
             System.out.println("end of second thread..");
         
         }
