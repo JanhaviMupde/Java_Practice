@@ -22,6 +22,7 @@ class Demo
     public Demo(int a)
     {
         System.out.println("Inside parameterized constructor..");
+        
         this.i = a;
         System.out.println(i);
     }
