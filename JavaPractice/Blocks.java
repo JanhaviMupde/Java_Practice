@@ -1,6 +1,7 @@
 class Demo
 {
     public int i;
+    
     static public int j = 21;
 
     static //static block
