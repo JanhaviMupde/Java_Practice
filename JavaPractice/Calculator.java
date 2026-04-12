@@ -9,6 +9,7 @@ public class Calculator
 
         System.out.println("Enter 1st Number : ");
         a = sobj.nextInt();
+        
         System.out.println("Enter 2nd Number : ");
         b = sobj.nextInt();
 
