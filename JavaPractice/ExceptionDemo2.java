@@ -21,5 +21,6 @@ public class ExceptionDemo2
         
         fAns = iNo1 % iNo2;
         System.out.println("Reminder is : "+fAns);
+        
     }    
 }
