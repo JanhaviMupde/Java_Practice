@@ -15,6 +15,7 @@ class Hello implements Demo
 class InterfaceDemo3
 {
     public static void main(String A[])
+    
     {
         System.out.println(Demo.no);    // no is public and static
         // Demo.no = 12;                // no is final
