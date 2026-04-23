@@ -22,6 +22,7 @@ class Blocks
     public static void main(String A[])
     {
         System.out.println("Inside main..");
+        
         Demo dobj1 = new Demo();
         Demo dobj2 = new Demo();
         Demo dobj3 = new Demo();
