@@ -13,6 +13,5 @@ class AbstractDemo1
     public static void main(String A[])
     {
         Base bp = new Base();   // Error
-
     }
 }
