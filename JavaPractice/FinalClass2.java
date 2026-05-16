@@ -21,7 +21,6 @@ class FinalClass2
     public static void main(String A[])
     {
         Derived dobj = new Derived();
-
         dobj.bobj.fun();
     }
 }
