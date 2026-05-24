@@ -7,7 +7,6 @@ interface A
         System.out.println("Inside gun");
     }
 }
-
 class Demo implements A
 {
     public void fun()
