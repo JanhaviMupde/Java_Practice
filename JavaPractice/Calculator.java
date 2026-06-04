@@ -42,6 +42,5 @@ public class Calculator
             System.out.println("Performing Division..");
             System.out.println("Division is : "+ (a/b));
         }
-
     }
 }
