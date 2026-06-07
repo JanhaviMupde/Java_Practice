@@ -28,7 +28,6 @@ class ExceptionDemo5
         {
             System.out.println("Inside Generic catch");
         }
-
         System.out.println("Division is : "+iAns);
     }
 }
