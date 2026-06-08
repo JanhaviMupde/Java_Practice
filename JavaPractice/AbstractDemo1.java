@@ -7,7 +7,6 @@ abstract class Base
     }
     abstract public int Substraction(int a, int b);
 }
-
 class AbstractDemo1
 {
     public static void main(String A[])
