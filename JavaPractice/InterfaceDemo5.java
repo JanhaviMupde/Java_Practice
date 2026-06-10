@@ -8,7 +8,6 @@ interface B
 {
     void fun();
 }
-
 class Demo implements A,B   // Multiple inheritance
 {
     public void fun()
