@@ -14,6 +14,5 @@ public class p2
         b = sobj.nextInt();
         
         System.out.println("Addition is : "+ (a+b));
-
     }    
 }
