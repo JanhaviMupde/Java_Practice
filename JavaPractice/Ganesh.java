@@ -1,4 +1,3 @@
-//16th Sept 2025
 
 class Ganesh
 {
