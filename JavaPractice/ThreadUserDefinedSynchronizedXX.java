@@ -33,7 +33,6 @@ public class ThreadUserDefinedSynchronizedXX
     public static void main(String A[])
     {
         TablePrinter obj = new TablePrinter();
-
         Demo dobj1 = new Demo(obj,4,"First");
         Demo dobj2 = new Demo(obj,5,"Second");
 
