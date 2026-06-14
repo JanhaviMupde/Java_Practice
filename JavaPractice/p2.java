@@ -12,7 +12,7 @@ public class p2
         
         System.out.println("2nd number : ");
         b = sobj.nextInt();
-        
+    
         System.out.println("Addition is : "+ (a+b));
     }    
 }
