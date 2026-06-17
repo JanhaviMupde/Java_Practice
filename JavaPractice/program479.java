@@ -1,4 +1,4 @@
-//accept string and count white spaces 25th july 
+//accept string and count white spaces
 import java.util.*;
 class program479
 {
