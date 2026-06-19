@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class SelectionDemo2
 {
     public static void main(String A[])
