@@ -8,7 +8,6 @@ class Demo
         System.out.println("Inside Static block..");
         j=21;
     }
-
     {
         System.out.println("inside initializer block");
     }
