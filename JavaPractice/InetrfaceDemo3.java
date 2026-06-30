@@ -2,6 +2,7 @@ interface Demo
 {
     int no = 11;     
     // public static final
+
     void Display();         // public abstract
 }
 
