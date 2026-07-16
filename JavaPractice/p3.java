@@ -4,7 +4,6 @@ public class p3
      public static void main(String A[])
     {
         Scanner sobj = new Scanner(System.in);
-
         int a = 0 ;
         
         System.out.println("Enter number :");
