@@ -2,6 +2,7 @@ import java.io.*;
 
 class sortingInteger
  {
+ 
     public static void main(String[] args)
      {
         // storing input in variable
